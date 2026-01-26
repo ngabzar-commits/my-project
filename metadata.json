@@ -1,0 +1,5 @@
+{
+  "name": "hgizargon",
+  "description": "A sophisticated management console for monitoring and analyzing Higgs Domino Island backend traffic, specifically designed for handling msg.do endpoint data with AI-powered log analysis.",
+  "requestFramePermissions": []
+}

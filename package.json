@@ -1,0 +1,21 @@
+
+{
+  "name": "higgs-domino-backend-manager",
+  "version": "1.0.0",
+  "description": "Sophisticated management console for Higgs Domino backend traffic.",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "@google/genai": "^1.38.0",
+    "recharts": "^3.7.0"
+  },
+  "keywords": [
+    "higgs-domino",
+    "backend-console",
+    "gemini-api",
+    "log-analyzer"
+  ],
+  "author": "Backend Engineer",
+  "license": "MIT"
+}

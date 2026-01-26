@@ -1,7 +1,8 @@
-[build]
-  functions = "netlify/functions"
 
 [[redirects]]
-  from = "/handleMsg.do"
-  to = "/.netlify/functions/handleMsg"
+  from = "/*"
+  to = "/index.html"
   status = 200
+
+[build]
+  publish = "."
